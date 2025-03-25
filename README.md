@@ -12,7 +12,7 @@
 | [Async Std Book](https://book.async.rs/) | Async programming in Rust with async-std | [GitHub](https://github.com/async-rs/async-std/tree/master/docs) |
 | [Amethyst](https://www.amethyst.rs/book/latest/) | The Amethyst game engine book | [GitHub](https://GitHub.com/amethyst/amethyst) |
 | [cargo](https://doc.rust-lang.org/cargo/) | The cargo book | [GitHub](https://GitHub.com/rust-lang/cargo/tree/master/src/doc/src) |
-| [Command Line Applications in Rust](https://rust-lang-nursery.GitHub.io/cli-wg/) | A book about writing CLI's in Rust | [GitHub](https://GitHub.com/rust-lang-nursery/cli-wg/tree/master/src) |
+| [Command Line Applications in Rust](https://rust-lang-nursery.GitHub.io/cli-wg/) | A book about writing CLI's in Rust | [GitHub](https://github.com/rust-cli/book) |
 | [Discovery](https://docs.rust-embedded.org/discovery/index.html) | The Discovery Book will teach you about microcontrollers, peripherals, sensors and bare metal programming in Rust | [GitHub](https://GitHub.com/rust-embedded/discovery) |
 | [The Embedded Rust Book](https://docs.rust-embedded.org/book/index.html) | The Embedded Rust Book will get you up to speed with embedded Rust development | [GitHub](https://GitHub.com/rust-embedded/book) |
 | [The Embedonomicon](https://docs.rust-embedded.org/embedonomicon/index.html) | For those that want to dive into the implementation of the foundational crates of the embedded ecosystem | [GitHub](https://GitHub.com/rust-embedded/embedonomicon) |
